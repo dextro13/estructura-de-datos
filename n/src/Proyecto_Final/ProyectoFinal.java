@@ -35,7 +35,8 @@ public class ProyectoFinal {
                     
                     break;
                 case 4:
-                    
+                    ListaCola objcol = new ListaCola();
+                    objcol.menu();
                     break;
                 case 5:
                     
